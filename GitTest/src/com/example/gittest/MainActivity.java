@@ -5,7 +5,7 @@ import android.app.Activity;
 import android.view.Menu;
 
 
-// Testing Github with eclipse.
+// Testing Github with eclipse..
 public class MainActivity extends Activity {
 
 	@Override
